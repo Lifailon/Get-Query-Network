@@ -16,4 +16,5 @@
 ![Image alt](https://github.com/Lifailon/Get-Query-Network/blob/rsa/Screen/Output-xml.jpg)
 
 > Время работы в среднем от 30 до 90 секунд.
+
 ![Image alt](https://github.com/Lifailon/Get-Query-Network/blob/rsa/Screen/Get-Help-and-Run-Time.jpg)
