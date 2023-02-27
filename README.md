@@ -7,7 +7,7 @@
 * **Module ActiveDirectory (RSAT)** - для проверки версии ОС и Resove Name (увеличивает время работы, сравнительно с проверками wmi и nslookup);
 * **Module [Get-Query](https://github.com/Lifailon/Get-Query)** - для сбора списка пользователей.
 
-### Вывод в GridView с возможность поиска пользователя (сортировки) и подключения к нему по средствам Remote Desktop Shadow (ключ -Shadow):
+### Вывод в GridView с возможность поиска пользователя (сортировки) и подключения к выбранному пользователю по средствам Remote Desktop Shadow (ключ -Shadow):
 
 ![Image alt](https://github.com/Lifailon/Get-Query-Network/blob/rsa/Screen/Shadow.jpg)
 
